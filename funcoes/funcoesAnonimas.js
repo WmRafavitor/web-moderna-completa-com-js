@@ -36,4 +36,5 @@ const pessoa = {
         console.log("Olá.");
     }
 }
-pessoa.falar();
+pessoa.falar();// E para acessar a função faz dessa forma, colocando os parenteses
+//apos a chave do objeto.
